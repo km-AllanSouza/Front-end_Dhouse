@@ -94,21 +94,7 @@ h1{color: aqua; }
 
 }
 
-.video-views {
 
-    color: rgba(255, 255, 255, 0.6);
-    margin-top: 12px;
-    display: block;
-
-}
-
-.video-date {
-
-    text-align: right;
-    display: block;
-    color: rgba(255, 255, 255, 0.4); font-size: 12px;
-
-}
 #div1{
     position: absolute;
     top: 20px;
