@@ -1,0 +1,46 @@
+.header-site {
+    background-image: url(https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+  }
+  
+  .header-site h1{
+    font-size: 300px;
+    color: rgb(10, 10, 10);
+  }
+  
+  .header-site h1:hover{
+    font-size: 310px;
+    color: rgb(250, 142, 0);
+  }
+  
+  .header-site p{
+    font-size: 30px;
+    color: black;
+  }
+  .content-site {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  
+  .img-site {
+    background-image: url(../img/fundo.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  
+  .footer-site {
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
